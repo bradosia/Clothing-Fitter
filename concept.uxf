@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>0</x>
+      <y>0</y>
+      <w>560</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>Idea: Desktop application assists you while browsing the web 
+by generating 3D models from  clothing images and displaying them
+on your personalized 3D avatar based on your real body measurements</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>0</x>
+      <y>110</y>
+      <w>560</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>DesktopApp.exe
+User does a </panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
